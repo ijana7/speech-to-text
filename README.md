@@ -5,7 +5,7 @@ Build a user interface to convert voice to text (speech to text) and save the te
 <img width="656" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٨ ٢٠ ٠٨ م" src="https://github.com/ijana7/speech-to-text/assets/173642526/9483777e-3128-4800-aaf2-26b96df4da10">
 
 ## here  i say ( this is second task)
-<img width="1562" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٨ ٢٣ ٤٣ م" src="https://github.com/ijana7/speech-to-text/assets/173642526/d8feb6ab-93ba-47d8-aa68-3d0609cfedf8">
+<img width="1515" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٨ ٢٨ ٤٩ م ١" src="https://github.com/ijana7/speech-to-text/assets/173642526/3b5820dc-053f-4ef2-ba97-a27ad25167c2">
 
  ## and here after save in database
  
