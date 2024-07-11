@@ -1,7 +1,7 @@
 # speech-to-text
 Build a user interface to convert voice to text (speech to text) and save the text output to database
 
-First we must make sure xampp is on and And it works properly
+## First we must make sure xampp is on and And it works properly
 <img width="656" alt="‏لقطة الشاشة ١٤٤٦-٠١-٠٥ في ٨ ٢٠ ٠٨ م" src="https://github.com/ijana7/speech-to-text/assets/173642526/9483777e-3128-4800-aaf2-26b96df4da10">
 
 ## here  i say ( this is second task)
